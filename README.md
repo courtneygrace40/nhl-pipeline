@@ -4,8 +4,8 @@ Will the NY Islanders make the NHL playoffs this year?
 
 ## I. Analyze how to predict the winner of a game via a machine learning pipeline -> this determines which factors influence a win for a simulation       
 ### 1. Get data via NHL API     
--Game data, including goals, etc (quantitative)       
--Home vs away, attendance can be considered as well (categorical)      
+- Game data, including goals, etc (quantitative)       
+- Home vs away, attendance can be considered as well (categorical)      
 
 2. Clean/store data         
 
