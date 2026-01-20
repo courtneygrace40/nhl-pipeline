@@ -1,6 +1,6 @@
 # NY Islanders Playoff Prediction 
 
-Will the NY Islanders make the NHL playoffs this year? 
+This project leverages the NHL API and Machine Learning to quantify the postseason probability of the New York Islanders during the 2025-26 season, providing a data-driven narrative to supplement traditional sports journalism.
 
 ## I. Analyze how to predict the winner of a game via a machine learning pipeline -> this determines which factors influence a win for a simulation       
 ### 1. Get data via NHL API     
